@@ -17,8 +17,8 @@
 
 I'm ign57tr, the guy who builds and helps people build their own bot!
 
-- :muscle: Currently creating discord bots and small projects.
-- :gift_heart: Owner of Vape | Bot.
+- ⚡ Currently creating discord bots and small projects.
+- 🌱 Owner of Vape | Bot.
 - 📫 Discord: 57tr#0007.
 - :dart: Wasting my time to save other people's time.
 
@@ -61,7 +61,7 @@ Maybe grab a drink and come chill with us!
 ----
 
 <a href="https://twitter.com/ign57tr">
-  <img align="left" alt="Twitter" width="21px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />
+  <img align="left" alt="Twitter" width="21px" src="http://assets.stickpng.com/images/5842a8fba6515b1e0ad75b03.png" />
 </a>
 
 <p align='center'>

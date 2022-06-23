@@ -60,10 +60,9 @@ Maybe grab a drink and come chill with us!
 
 ----
 
-<p align='rigth'>
 <a href="https://twitter.com/ign57tr">
-  <width="21px" img src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" alt="visitor badge"/>
-</p>
+  <img align="left" alt="Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
 
 <p align='center'>
 <a href="https://twitter.com/ign57tr">

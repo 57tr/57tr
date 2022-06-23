@@ -44,12 +44,16 @@ Maybe grab a drink and come chill with us!
 
 ## My activities
 
+<!--
+https://metrics.lecoq.io/57tr?template=classic&repositories.forks=true&base.metadata=0&languages=1&followup=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&config.timezone=America%2FPanama&config.padding=0%2C%2015%25 
+-->
+
 <a style="text-decoration: none;" href="https://github.com/57tr">
-  <img align="center" src="https://metrics.lecoq.io/57tr?template=classic&repositories.forks=true&base.metadata=0&languages=1&followup=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&config.timezone=America%2FPanama&config.padding=0%2C%2015%25" />
+  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=57tr&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
 </a>
-<!--<a href="https://github.com/57tr">
+<a href="https://github.com/57tr">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewstouh&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
-</a>-->
+</a>
 
 
 ## Spotify

@@ -15,12 +15,12 @@
 
 # Hey there!
 
-I'm UltraX the guy who make videos on youtuber teaching people how to create their own discord bot!
+I'm ign57tr, the guy who builds and helps people build their own bot!
 
 - :muscle:  Currently creating discord bots and small projects.
-- :gift_heart:  Owner of Vape Bot, ign57tr Package and ign57tr Youtube channel.
+- :gift_heart:  Owner of Vape Bot and ign57tr Youtube channel.
 - ✊ Not perfect, but i'll be one day.
-- :trophy:  2022 Goals: Reaching 5K subscribers on [Youtube](https://www.youtube.com/channel/UC513aegwI54Pn7JzTCV3y2A).
+- :trophy:  2022 Goals: Reaching 100 subscribers on [Youtube](https://www.youtube.com/channel/UC513aegwI54Pn7JzTCV3y2A).
 - :dart:  Wasting my time to save other people's time.
 - 🖥  Save up to 500USD to build a new PC [Donate 350/500](https://paypal.me/ign57tr)
 

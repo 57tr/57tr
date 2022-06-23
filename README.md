@@ -61,7 +61,7 @@ Maybe grab a drink and come chill with us!
 ----
 
 <a href="https://twitter.com/ign57tr">
-  <img align="left" alt="Twitter" width="21px" src="http://assets.stickpng.com/images/5842a8fba6515b1e0ad75b03.png" />
+  <img align="left" alt="Twitter" width="21px" src="https://i.imgur.com/0fBkXcw.png" />
 </a>
 
 <p align='center'>

@@ -17,9 +17,9 @@
 
 I'm ign57tr, the guy who builds and helps people build their own bot!
 
-- ⚡ Currently creating discord bots and small projects.
-- 🌱 Owner of Vape | Bot.
-- 📫 Discord: 57tr#0007.
+- ⚡  Currently creating discord bots and small projects.
+- 🌱  Owner of Vape | Bot.
+- 📫  Discord: 57tr#0007.
 - :dart: Wasting my time to save other people's time.
 
 DM on discord for custom bots!<br>
@@ -42,7 +42,7 @@ Maybe grab a drink and come chill with us!
 
 [![Community](https://discordapp.com/api/guilds/716216764769239083/widget.png?style=banner2)](https://discord.gg/Qk6j2fpeat)-->
 
-## My Activities
+## My activities
 
 <a style="text-decoration: none;" href="https://github.com/57tr">
   <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=57tr&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
@@ -52,7 +52,7 @@ Maybe grab a drink and come chill with us!
 </a>
 
 
-## :headphones: Spotify Playlist
+## Spotify playlist
 
 [![BadBunny Music](https://img.shields.io/badge/BadBunny%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DX1JDoW1OkYS7?si=51ef6469f1554052) [![Relaxing Music](https://img.shields.io/badge/Relaxing%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3nefUccOcypMsYYzcKrSnL?si=d5e2c0b91ecf4fa0)
 

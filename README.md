@@ -61,17 +61,12 @@ Maybe grab a drink and come chill with us!
 ----
 
 <a href="https://twitter.com/ign57tr">
-  <img align="left" alt="Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  <img align="rigth" alt="Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 
 <p align='center'>
 <a href="https://twitter.com/ign57tr">
   <img src="https://visitor-badge.glitch.me/badge?page_id=57tr" alt="visitor badge"/>
-</p>
-  
-<p align='rigth'>
-<a href="https://twitter.com/ign57tr">
-  <alt="Twitter" width="21px" img src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </p>
 
 <!--

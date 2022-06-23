@@ -45,7 +45,7 @@ Maybe grab a drink and come chill with us!
   <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=57tr&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
 </a>
 <a href="https://www.youtube.com/channel/UC513aegwI54Pn7JzTCV3y2A">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=57tr&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarimX32&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
 </a>
 
 

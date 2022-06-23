@@ -22,9 +22,8 @@ I'm ign57tr, the guy who builds and helps people build their own bot!
 - ✊ Not perfect, but i'll be one day.
 - :dart:  Wasting my time to save other people's time.
 
-
-Business Email: ign57tr@hotmail.com<br>
 DM on discord for custom bots!<br>
+Business Email: ign57tr@hotmail.com<br>
 Support development by [**donating**](https://paypal.me/ign57tr) to us.
 
 ## Interests

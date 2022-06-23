@@ -31,12 +31,17 @@ DM on discord for custom bots!
 
 [![HTML5](https://img.icons8.com/color/30/html-5.png)](https://twitter.com/ign57tr) [![CSS3](https://img.icons8.com/color/30/css3.png)](https://twitter.com/ign57tr) [![JavaScript](https://img.icons8.com/color/30/javascript.png)](https://twitter.com/ign57tr) [![NodeJS](https://img.icons8.com/color/30/nodejs.png)](https://twitter.com/ign57tr) [![NPM](https://img.icons8.com/color/30/npm.png)](https://twitter.com/ign57tr) [![Github](https://img.icons8.com/material-outlined/30/github.png)](https://twitter.com/ign57tr) [![Git](https://img.icons8.com/color/30/git.png)](https://twitter.com/ign57tr) [![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)](https://twitter.com/ign57tr)
 
-## 🤩 My Community
+## Author
+
+[![Follow @ign57tr](https://img.shields.io/twitter/follow/ign57tr?label=Follow&style=social&maxAge=3600, "Follow")](https://twitter.com/intent/follow?screen_name=ign57tr)<br>
+[![XD](https://img.shields.io/static/v1?style=flat&logo=twitter&label=Perfil&color=1da1f2&link=https%3A%2F%2Ftwitter.com%2Fign57tr&link=https%3A%2F%2Ftwitter.com%2Fign57tr&message=%40ign57tr&maxAge=3600, "Send Message to Author")](https://twitter.com/ign57tr)<br>
+[![Send Message to Author](https://img.shields.io/static/v1?style=flat&logo=twitter&label=Message&color=1da1f2&link=https%3A%2F%2Ftwitter.com%2Fmessages%2Fcompose%3Frecipient_idq1368243131238539268&link=https%3A%2F%2Ftwitter.com%2Fmessages%2Fcompose%3Frecipient_idq1368243131238539268&message=%40ign57tr&maxAge=3600, "Send Message to Author")](https://twitter.com/messages/compose?recipient_id=1368243131238539268)<br>
+
+<!--## 🤩 My Community
 
 Maybe grab a drink and come chill with us!
 
-[![Community](https://discordapp.com/api/guilds/716216764769239083/widget.png?style=banner2)](https://discord.gg/Qk6j2fpeat)
-
+[![Community](https://discordapp.com/api/guilds/716216764769239083/widget.png?style=banner2)](https://discord.gg/Qk6j2fpeat)-->
 
 ## My Activities
 

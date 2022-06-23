@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://discord.gg/xuXpJxuQk9"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="https://twitter.com/ign57tr"><img alt="Telegram" title="Telegram" src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://t.me/ign57tr"><img alt="Telegram" title="Telegram" src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="https://instagram.com/juan.cc02"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://open.spotify.com/user/8824kysns2qno2ricj059l1q7?si=6010de8330fb422f"><img alt="Spotify" title="Spotify" src="https://img.shields.io/badge/-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/></a>
    

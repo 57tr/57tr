@@ -71,7 +71,7 @@ Maybe grab a drink and come chill with us!
   
 <p align='rigth'>
 <a href="https://twitter.com/ign57tr">
-  < alt="Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  <alt="Twitter" width="21px" img src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </p>
 
 <!--

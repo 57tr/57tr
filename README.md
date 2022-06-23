@@ -56,7 +56,8 @@ Maybe grab a drink and come chill with us!
 
 ----
 
-<p align='center' href="https://twitter.com/ign57tr">
+<p align='center'>
+<a href="https://twitter.com/ign57tr">
   <img src="https://visitor-badge.glitch.me/badge?page_id=57tr" alt="visitor badge"/>
 </p>
 

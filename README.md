@@ -20,7 +20,6 @@ I'm ign57tr, the guy who builds and helps people build their own bot!
 - :muscle:  Currently creating discord bots and small projects.
 - :gift_heart:  Owner of Vape Bot and ign57tr Youtube channel.
 - ✊ Not perfect, but i'll be one day.
-- :trophy:  2022 Goals: Reaching 100 subscribers on [Youtube](https://www.youtube.com/channel/UC513aegwI54Pn7JzTCV3y2A).
 - :dart:  Wasting my time to save other people's time.
 - 🖥  Save up to 500USD to build a new PC [Donate 350/500](https://paypal.me/ign57tr)
 
@@ -41,10 +40,10 @@ Maybe grab a drink and come chill with us!
 
 ## My Activities
 
-<a style="text-decoration: none;" href="https://youtube.com/UltraX1">
+<a style="text-decoration: none;" href="https://twitter.com/ign57tr">
   <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=57tr&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
 </a>
-<a href="https://www.youtube.com/channel/UC513aegwI54Pn7JzTCV3y2A">
+<a href="https://twitter.com/ign57tr">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarimX32&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
 </a>
 

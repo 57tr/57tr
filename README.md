@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h3 align="center">Hey there, I'm <a href="https://www.youtube.com/channel/UC513aegwI54Pn7JzTCV3y2A">ign57tr</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
+<h3 align="center">Hey there, i'm <a href="https://www.youtube.com/channel/UC513aegwI54Pn7JzTCV3y2A">ign57tr</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
 <p align="center">
   <a href="https://discord.gg/xuXpJxuQk9"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
@@ -52,7 +52,7 @@ Maybe grab a drink and come chill with us!
 </a>
 
 
-## :headphones: Spotify
+## :headphones: Spotify Playlist
 
 [![BadBunny Music](https://img.shields.io/badge/BadBunny%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DX1JDoW1OkYS7?si=51ef6469f1554052) [![Relaxing Music](https://img.shields.io/badge/Relaxing%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3nefUccOcypMsYYzcKrSnL?si=d5e2c0b91ecf4fa0)
 

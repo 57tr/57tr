@@ -17,10 +17,10 @@
 
 I'm ign57tr, the guy who builds and helps people build their own bot!
 
-- :muscle:  Currently creating discord bots and small projects.
-- :gift_heart:  Owner of Vape | Bot.
-- ✊ Not perfect, but i'll be one day.
-- :dart:  Wasting my time to save other people's time.
+- :muscle: Currently creating discord bots and small projects.
+- :gift_heart: Owner of Vape | Bot.
+- 📫 Discord: 57tr#0007.
+- :dart: Wasting my time to save other people's time.
 
 DM on discord for custom bots!<br>
 Business Email: ign57tr@hotmail.com<br>

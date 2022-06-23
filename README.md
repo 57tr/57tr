@@ -52,16 +52,15 @@ Maybe grab a drink and come chill with us!
 </a>
 
 
-## Spotify playlist
+## Spotify
 
 [![BadBunny Music](https://img.shields.io/badge/BadBunny%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DX1JDoW1OkYS7?si=51ef6469f1554052) [![Relaxing Music](https://img.shields.io/badge/Relaxing%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3nefUccOcypMsYYzcKrSnL?si=d5e2c0b91ecf4fa0)
-
 
 
 ----
 
 <a href="https://twitter.com/ign57tr">
-  <img align="left" alt="ign57tr" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  <img align="left" alt="ign57tr" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg"/> @ign57tr
 </a>
 
 <p align='center'>

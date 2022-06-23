@@ -3,7 +3,7 @@
 <h3 align="center">Hey there, I'm <a href="https://www.youtube.com/channel/UC513aegwI54Pn7JzTCV3y2A">ign57tr</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
 <p align="center">
-  <a href="https://discord.gg/xuXpJxuQk9"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://discord.gg/xuXpJxuQk9"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://twitter.com/ign57tr"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://instagram.com/juan.cc02"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://open.spotify.com/user/8824kysns2qno2ricj059l1q7?si=6010de8330fb422f"><img alt="Spotify" title="Spotify" src="https://img.shields.io/badge/-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/></a>

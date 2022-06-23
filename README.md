@@ -21,11 +21,11 @@ I'm ign57tr, the guy who builds and helps people build their own bot!
 - :gift_heart:  Owner of Vape | Bot.
 - ✊ Not perfect, but i'll be one day.
 - :dart:  Wasting my time to save other people's time.
-- 🖥  Save up to 500USD to build a new PC [Donate 350/500](https://paypal.me/ign57tr)
 
 
 Business Email: ign57tr@hotmail.com<br>
 DM on discord for custom bots!
+Support development by [**donating**](https://paypal.me/ign57tr) to us.
 
 ## Interests
 

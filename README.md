@@ -68,7 +68,10 @@ Maybe grab a drink and come chill with us!
 <a href="https://twitter.com/ign57tr">
   <img src="https://visitor-badge.glitch.me/badge?page_id=57tr" alt="visitor badge"/>
 </p>
-
+  
+<a href="https://twitter.com/ign57tr">
+  <img align="rigth" alt="Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
 
 <!--
 **57tr/57tr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

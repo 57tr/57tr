@@ -18,7 +18,7 @@
 I'm ign57tr, the guy who builds and helps people build their own bot!
 
 - :muscle:  Currently creating discord bots and small projects.
-- :gift_heart:  Owner of Vape Bot and ign57tr Youtube channel.
+- :gift_heart:  Owner of Vape | Bot.
 - ✊ Not perfect, but i'll be one day.
 - :dart:  Wasting my time to save other people's time.
 - 🖥  Save up to 500USD to build a new PC [Donate 350/500](https://paypal.me/ign57tr)

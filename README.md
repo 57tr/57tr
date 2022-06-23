@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://discord.gg/xuXpJxuQk9"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="https://npmjs.com/package/ultrax"><img alt="Npm" title="Npm" src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://twitter.com/ign57tr"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://instagram.com/juan.cc02"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.youtube.com/channel/UC513aegwI54Pn7JzTCV3y2A"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
    

@@ -45,7 +45,7 @@ Maybe grab a drink and come chill with us!
 ## My Activities
 
 <a style="text-decoration: none;" href="https://github.com/57tr">
-  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=57tr&layout=compact&theme=radical" />
+  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=57tr&hide=contribs,prs&show_icons=true&count_private=true&include_all_commits=true&theme=radical" />
 </a>
 <a href="https://github.com/57tr">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=57tr&layout=compact&theme=radical" />

@@ -62,7 +62,7 @@ Maybe grab a drink and come chill with us!
 
 <p align='left'>
 <a href="https://twitter.com/ign57tr">
-  <img src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" alt="visitor badge"/>
+  <width="21px" img src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" alt="visitor badge"/>
 </p>
 
 <p align='center'>

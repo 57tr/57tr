@@ -56,7 +56,7 @@ Support development by [**donating**](https://paypal.me/ign57tr) to us.
 
 ----
 <p align="rigth">
-  <a href="https://twitter.com/ign57tr"><img src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg"/></a>
+  <a href="https://twitter.com/ign57tr"><img src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" width="21px"/></a>
 </p
 
 <p align='center'>

@@ -29,10 +29,9 @@ Support development by [**donating**](https://paypal.me/ign57tr) to us.
 [![HTML5](https://img.icons8.com/color/30/html-5.png)](https://twitter.com/ign57tr) [![CSS3](https://img.icons8.com/color/30/css3.png)](https://twitter.com/ign57tr) [![JavaScript](https://img.icons8.com/color/30/javascript.png)](https://twitter.com/ign57tr) [![NodeJS](https://img.icons8.com/color/30/nodejs.png)](https://twitter.com/ign57tr) [![NPM](https://img.icons8.com/color/30/npm.png)](https://twitter.com/ign57tr) [![Github](https://img.icons8.com/material-outlined/30/github.png)](https://twitter.com/ign57tr) [![Git](https://img.icons8.com/color/30/git.png)](https://twitter.com/ign57tr) [![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)](https://twitter.com/ign57tr)
 
 
-## Author
+## Contact
 
 <p align="left">
-  <a href="https://discord.gg/xuXpJxuQk9"><img width="50%" height="auto" src="https://cdn.discordapp.com/attachments/848414171418066964/991860296094318683/profile.png" height="200px"/></a><br>
   <a href="https://twitter.com/ign57tr"><img src="https://img.shields.io/static/v1?style=flat&logo=twitter&label=Perfil&color=1da1f2&link=https%3A%2F%2Ftwitter.com%2Fign57tr&link=https%3A%2F%2Ftwitter.com%2Fign57tr&message=%40ign57tr&maxAge=3600"/></a>
   <a href="https://twitter.com/messages/compose?recipient_id=1368243131238539268"><img src="https://img.shields.io/static/v1?style=flat&logo=twitter&label=Message&color=1da1f2&link=https%3A%2F%2Ftwitter.com%2Fmessages%2Fcompose%3Frecipient_idq1368243131238539268&link=https%3A%2F%2Ftwitter.com%2Fmessages%2Fcompose%3Frecipient_idq1368243131238539268&message=%40ign57tr&maxAge=3600"/></a>
   <a href="https://twitter.com/intent/follow?screen_name=ign57tr"><img src="https://img.shields.io/twitter/follow/ign57tr?label=Follow&style=social&maxAge=3600"/></a>

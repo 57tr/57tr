@@ -32,7 +32,7 @@ Support development by [**donating**](https://paypal.me/ign57tr) to us.
 ## Contact
 
 <p align="left">
-  <a href="https://twitter.com/intent/follow?screen_name=ign57tr"><img src="https://img.shields.io/twitter/follow/ign57tr?label=Follow&style=social&maxAge=3600"/></a>
+  <a href="https://twitter.com/intent/follow?screen_name=ign57tr"><img src="https://img.shields.io/twitter/follow/ign57tr?label=Follow&style=social&maxAge=3600"/></a><br>
   <a href="https://twitter.com/ign57tr"><img src="https://img.shields.io/static/v1?style=flat&logo=twitter&label=Perfil&color=1da1f2&link=https%3A%2F%2Ftwitter.com%2Fign57tr&link=https%3A%2F%2Ftwitter.com%2Fign57tr&message=%40ign57tr&maxAge=3600"/></a><br>
   <a href="https://twitter.com/messages/compose?recipient_id=1368243131238539268"><img src="https://img.shields.io/static/v1?style=flat&logo=twitter&label=Message&color=1da1f2&link=https%3A%2F%2Ftwitter.com%2Fmessages%2Fcompose%3Frecipient_idq1368243131238539268&link=https%3A%2F%2Ftwitter.com%2Fmessages%2Fcompose%3Frecipient_idq1368243131238539268&message=%40ign57tr&maxAge=3600"/></a><br>
 </p>

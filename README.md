@@ -34,7 +34,7 @@ Support development by [**donating**](https://paypal.me/ign57tr) to us.
 ## Author
 
 <p align="center">
-  <a href="#"><img width="50%" height="auto" src="https://cdn.discordapp.com/attachments/848414171418066964/991860296094318683/profile.png" height="200px"/></a>
+  <a href="#"><img width="50%" height="auto" src="https://cdn.discordapp.com/attachments/848414171418066964/991860296094318683/profile.png" height="200px"/></a><br>
   <a href="https://twitter.com/ign57tr"><img src="https://img.shields.io/static/v1?style=flat&logo=twitter&label=Perfil&color=1da1f2&link=https%3A%2F%2Ftwitter.com%2Fign57tr&link=https%3A%2F%2Ftwitter.com%2Fign57tr&message=%40ign57tr&maxAge=3600"/></a>
 </p>
 

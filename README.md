@@ -58,6 +58,6 @@ Support development by [**donating**](https://paypal.me/ign57tr) to us.
 <p align='left'>
   <a href="https://twitter.com/ign57tr"><img src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" width="21px"/></a>
  </p>
-<p align='center'>
+<p align='right'>
   <a href="https://twitter.com/ign57tr"><img src="https://visitor-badge.glitch.me/badge?page_id=57tr" alt="visitor badge"/></a><br>
 </p>

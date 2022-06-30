@@ -1,4 +1,4 @@
-<a href="#"><img width="50%" height="auto" src="https://cdn.discordapp.com/attachments/848414171418066964/991860296094318683/profile.png" height="100px"/></a>
+<a href="#"><img width="50%" img align = "center" height="auto" src="https://cdn.discordapp.com/attachments/848414171418066964/991860296094318683/profile.png" height="100px"/></a>
 
 <h3 align="center">Hey there, i'm <a href="https://www.youtube.com/channel/UC513aegwI54Pn7JzTCV3y2A">ign57tr</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 

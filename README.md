@@ -55,11 +55,10 @@ Support development by [**donating**](https://paypal.me/ign57tr) to us.
 
 
 ----
-
-<a href="https://twitter.com/ign57tr">
-  <img align="left" alt="ign57tr" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg"/>
-</a>
+<p align="rigth">
+  <a href="https://twitter.com/ign57tr"><img src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg"/></a>
+</p
 
 <p align='center'>
-<a href="https://twitter.com/ign57tr"><img src="https://visitor-badge.glitch.me/badge?page_id=57tr" alt="visitor badge"/></a>
+  <a href="https://twitter.com/ign57tr"><img src="https://visitor-badge.glitch.me/badge?page_id=57tr" alt="visitor badge"/></a>
 </p>

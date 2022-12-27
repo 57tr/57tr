@@ -11,10 +11,10 @@
 
 I'm ign57tr, the guy who builds and helps people build their own bot!
 
-- ⚡  Currently creating discord bots and small projects.
-- 🌱  Owner of Dyor | Bot.
-- 📫  Discord: 57tr#0001.
-- 🎯 Wasting my time to save other people's time.
+<p align="center-justified">- ⚡  Currently creating discord bots and small projects.</p>
+<p align="center-justified"><p align="center-justified"><p align="center-justified">- 🌱  Owner of Dyor | Bot.</p>
+<p align="center-justified"><p align="center-justified">- 📫  Discord: 57tr#0001.</p>
+<p align="center-justified">- 🎯 Wasting my time to save other people's time.</p>
 
 DM on discord for custom bots!<br>
 Business Email: ign57tr@hotmail.com<br>

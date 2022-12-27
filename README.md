@@ -9,18 +9,16 @@
 
 <h1 align="center">Hey there!</h1>
 
-<p align="center">
-  I'm ign57tr, the guy who builds and helps people build their own bot!
+<p align="center">I'm ign57tr, the guy who builds and helps people build their own bot!</p>
 
-  - ⚡  Currently creating discord bots and small projects.
-  - 🌱  Owner of Dyor | Bot.
-  - 📫  Discord: 57tr#0001.
-  - 🎯 Wasting my time to save other people's time.
+<p align="center">- ⚡  Currently creating discord bots and small projects.</p>
+<p align="center">- 🌱  Owner of Dyor | Bot.</p>
+<p align="center">- 📫  Discord: 57tr#0001.</p>
+<p align="center">- 🎯 Wasting my time to save other people's time.</p>
 
-  DM on discord for custom bots!<br>
-  Business Email: ign57tr@hotmail.com<br>
-  Support development by [**donating**](https://paypal.me/ign57tr) to us.  
-</p>
+<p align="center">DM on discord for custom bots!<br></p>
+<p align="center">Business Email: ign57tr@hotmail.com<br></p>
+<p align="center">Support development by [**donating**](https://paypal.me/ign57tr) to us.</p>
 
 
 ## Interests

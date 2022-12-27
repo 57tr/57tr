@@ -13,7 +13,7 @@ I'm ign57tr, the guy who builds and helps people build their own bot!
 
 - ⚡  Currently creating discord bots and small projects.
 - 🌱  Owner of Vape | Bot.
-- 📫  Discord: 57tr#0007.
+- 📫  Discord: 57tr#0001.
 - :dart: Wasting my time to save other people's time.
 
 DM on discord for custom bots!<br>

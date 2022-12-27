@@ -7,7 +7,7 @@
 </p>
 
 
-<h2 align="center"># Hey there!</h2>
+<h1 align="center">Hey there!</h1>
 
 I'm ign57tr, the guy who builds and helps people build their own bot!
 

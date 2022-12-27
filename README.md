@@ -7,8 +7,9 @@
 </p>
 
 
-<h2 align="center">Hey there!</h2>
+<h1 align="center">Hey there!</h1>
 
+<p align="center">
 I'm ign57tr, the guy who builds and helps people build their own bot!
 
 - ⚡  Currently creating discord bots and small projects.
@@ -18,7 +19,8 @@ I'm ign57tr, the guy who builds and helps people build their own bot!
 
 DM on discord for custom bots!<br>
 Business Email: ign57tr@hotmail.com<br>
-Support development by [**donating**](https://paypal.me/ign57tr) to us.
+Support development by [**donating**](https://paypal.me/ign57tr) to us.  
+</p>
 
 
 ## Interests

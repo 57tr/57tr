@@ -22,12 +22,11 @@
 </p>
 
 
-## Contact
+<h2 align="center">Contact</h2>
 
-<p align="left">
-  <a href="https://twitter.com/intent/follow?screen_name=ign57tr"><img src="https://img.shields.io/twitter/follow/ign57tr?label=Follow&style=social&maxAge=3600"/></a><br>
-  <a href="https://twitter.com/ign57tr"><img src="https://img.shields.io/static/v1?style=flat&logo=twitter&label=Perfil&color=1da1f2&link=https%3A%2F%2Ftwitter.com%2Fign57tr&link=https%3A%2F%2Ftwitter.com%2Fign57tr&message=%40ign57tr&maxAge=3600"/></a><br>
-  <a href="https://twitter.com/messages/compose?recipient_id=1368243131238539268"><img src="https://img.shields.io/static/v1?style=flat&logo=twitter&label=Message&color=1da1f2&link=https%3A%2F%2Ftwitter.com%2Fmessages%2Fcompose%3Frecipient_idq1368243131238539268&link=https%3A%2F%2Ftwitter.com%2Fmessages%2Fcompose%3Frecipient_idq1368243131238539268&message=%40ign57tr&maxAge=3600"/></a>
+<p align="center">
+  <a target="_blank"href="https://twitter.com/ign57tr"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:ign57tr@gmail.com?subject=Hi%2057tr,%20i%20come%20from%20github%20and%20i%20need%20help%20in..."><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 

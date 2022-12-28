@@ -44,8 +44,8 @@
 <h2 align="center">Spotify</h2>
 
 <p align="center">
-  <a href="https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1?si=44c6b4aa6d4043cc"><img alt="Spotify" title="Spotify" src="https://img.shields.io/badge/BadBunny%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
-  <a href="https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF?si=f099cd03d48a4806"><img alt="Spotify" title="Spotify" src="https://img.shields.io/badge/Relaxing%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
+  <a href="https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1?si=44c6b4aa6d4043cc"><img alt="Spotify" title="Spotify" src="https://img.shields.io/badge/YHLQMDLG-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
+  <a href="https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF?si=f099cd03d48a4806"><img alt="Spotify" title="Spotify" src="https://img.shields.io/badge/X%20100PRE-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
 </p>
 
 

@@ -1,7 +1,6 @@
 <p align="center">
   <a href="https://linktr.ee/ign57tr"><img width="80%" height="auto" src="https://i.imgur.com/611Q6Or.png" height="200px"/></a><br>
   <a href="https://discord.gg/xuXpJxuQk9"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="https://t.me/ign57tr"><img alt="Telegram" title="Telegram" src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="https://instagram.com/juan.cc02"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://open.spotify.com/user/8824kysns2qno2ricj059l1q7?si=6010de8330fb422f"><img alt="Spotify" title="Spotify" src="https://img.shields.io/badge/-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/></a>
 </p>
@@ -26,6 +25,7 @@
 <p align="center">
   <a target="_blank"href="https://twitter.com/ign57tr"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="mailto:ign57tr@gmail.com?subject=Hi%2057tr,%20i%20come%20from%20github%20and%20i%20need%20help%20in..."><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/ign57tr"><img alt="Telegram" title="Telegram" src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
 

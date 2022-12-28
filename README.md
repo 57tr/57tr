@@ -7,7 +7,12 @@
 </p>
 
 
-# Hey there!
+<h1 align="center">Interests</h1>
+
+
+
+
+## Hey there!
 
 I'm ign57tr, the guy who builds and helps people build their own bot!
 
@@ -19,11 +24,6 @@ I'm ign57tr, the guy who builds and helps people build their own bot!
 DM on discord for custom bots!<br>
 Business Email: ign57tr@hotmail.com<br>
 Support development by [**donating**](https://paypal.me/ign57tr) to us.
-
-
-## Interests
-
-[![HTML5](https://img.icons8.com/color/30/html-5.png)](https://twitter.com/ign57tr) [![CSS3](https://img.icons8.com/color/30/css3.png)](https://twitter.com/ign57tr) [![JavaScript](https://img.icons8.com/color/30/javascript.png)](https://twitter.com/ign57tr) [![NodeJS](https://img.icons8.com/color/30/nodejs.png)](https://twitter.com/ign57tr) [![NPM](https://img.icons8.com/color/30/npm.png)](https://twitter.com/ign57tr) [![Github](https://img.icons8.com/material-outlined/30/github.png)](https://twitter.com/ign57tr) [![Git](https://img.icons8.com/color/30/git.png)](https://twitter.com/ign57tr) [![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)](https://twitter.com/ign57tr)
 
 
 ## Contact

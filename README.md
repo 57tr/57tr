@@ -7,7 +7,12 @@
 </p>
 
 
-<h1 align="center">Interests</h1>
+<h1 align="center"> Hey there!</h1>
+
+<p align="center">I am a javascript, java, html and css developer with one year of experience in the field of technology. I have strong object-oriented programming skills and have used popular frameworks like Angular, React, and Spring. Additionally, I have experience in database implementation and have worked with MySQL, MongoDB and Oracle.</p>
+
+
+<h2 align="center">Interests</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>&nbsp;&nbsp;&nbsp;
@@ -15,20 +20,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp;&nbsp;
 </p>
-
-
-## Hey there!
-
-I'm ign57tr, the guy who builds and helps people build their own bot!
-
-- ⚡  Currently creating discord bots and small projects.
-- 🌱  Owner of Dyor | Bot.
-- 📫  Discord: 57tr#0001.
-- 🎯 Wasting my time to save other people's time.
-
-DM on discord for custom bots!<br>
-Business Email: ign57tr@hotmail.com<br>
-Support development by [**donating**](https://paypal.me/ign57tr) to us.
 
 
 ## Contact

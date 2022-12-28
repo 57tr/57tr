@@ -44,7 +44,8 @@
 <h2 align="center">Spotify</h2>
 
 <p align="center">
-[![BadBunny Music](https://img.shields.io/badge/BadBunny%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DX1JDoW1OkYS7?si=51ef6469f1554052) [![Relaxing Music](https://img.shields.io/badge/Relaxing%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3nefUccOcypMsYYzcKrSnL?si=d5e2c0b91ecf4fa0)
+  <a href="https://open.spotify.com/playlist/37i9dQZF1DX1JDoW1OkYS7?si=51ef6469f1554052"><img alt="Spotify" title="Spotify" src="https://img.shields.io/badge/BadBunny%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
+  <a href="https://open.spotify.com/playlist/3nefUccOcypMsYYzcKrSnL?si=d5e2c0b91ecf4fa0"><img alt="Spotify" title="Spotify" src="https://img.shields.io/badge/Relaxing%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
 </p>
 
 

@@ -29,7 +29,7 @@
 </p>
 
 
-<h2 align="center">My activities</h2>
+<h2 align="center">Statistics</h2>
 
 <p align="center">
 <a style="text-decoration: none;" href="https://github.com/57tr">

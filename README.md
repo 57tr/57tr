@@ -20,7 +20,7 @@
 </p>
 
 
-<h2 align="center">Contact</h2>
+<h2 align="center">Contact me at</h2>
 
 <p align="center">
   <a target="_blank"href="https://twitter.com/ign57tr"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>

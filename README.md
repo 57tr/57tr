@@ -33,7 +33,7 @@
 
 <p align="center">
   <a style="text-decoration: none;" href="https://github.com/57tr"><img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=57tr&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true"/></a>
-  <a href="https://github.com/57tr"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewstouh&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true"/></a>
+  <a href="https://github.com/57tr"><img align="center" src="https://github-readme-stats.vladfrangu.vercel.app/api/?username=vladfrangu&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true"/></a>
 </p>
 
 

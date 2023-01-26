@@ -33,8 +33,8 @@
 <h2 align="center">Profile statistics</h2>
 
 <p align="center">
-  <a href="https://github.com/57tr"><img width=450 height=170 align="center" src="https://github-readme-stats.vladfrangu.vercel.app/api/?username=57tr&show_icons=true&title_color=006AFF&text_color=417E87&bg_color=ffffff00&hide_border=true&icon_color=0579C3&hide_title=true&count_private=true"/></a>
-  <a href="https://github.com/57tr"><img align="center" style="padding=0" src="https://github-readme-stats.vladfrangu.vercel.app/api/top-langs/?username=dewstouh&layout=compact&title_color=006AFF&text_color=417E87&bg_color=ffffff00&hide_border=true&icon_color=0579C3&hide=visual%20basic&count_private=true"/></a>
+  <a href="https://github.com/57tr"><img width=450 height=170 align="center" src="https://github-readme-stats.vladfrangu.vercel.app/api/?username=57tr&show_icons=true&title_color=006AFF&text_color=417E87&bg_color=FFFFFF00&hide_border=true&icon_color=0579C3&hide_title=true&count_private=true"/></a>
+  <a href="https://github.com/57tr"><img align="center" style="padding=0" src="https://github-readme-stats.vladfrangu.vercel.app/api/top-langs/?username=dewstouh&layout=compact&title_color=006AFF&text_color=417E87&bg_color=FFFFFF00&hide_border=true&icon_color=0579C3&hide=visual%20basic&count_private=true"/></a>
 </p>
 
 

@@ -32,7 +32,9 @@
 <h2 align="center">Profile statistics</h2>
 
 <p align="center">
-  <a style="text-decoration: none;" href="https://github.com/57tr"><img align="center" src="https://github-readme-stats.vercel.app/api?username=57tr&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true"/></a>
+  <td align="center" style="padding=0;width=50%;">
+    <a style="text-decoration: none;" href="https://github.com/57tr"><img align="center" src="https://github-readme-stats.vercel.app/api?username=57tr&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true"/></a>
+  </td>
   <a href="https://github.com/57tr"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewstouh&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true"/></a>
 </p>
 
@@ -40,9 +42,7 @@
 <h2 align="center">Spotify playlists</h2>
 
 <p align="center">
-  <td align="center" style="padding=0;width=50%;">
-    <a href="https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1?si=44c6b4aa6d4043cc"><img alt="Spotify" title="Spotify" src="https://img.shields.io/badge/YHLQMDLG-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
-  </td>
+  <a href="https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1?si=44c6b4aa6d4043cc"><img alt="Spotify" title="Spotify" src="https://img.shields.io/badge/YHLQMDLG-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
   <a href="https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF?si=f099cd03d48a4806"><img alt="Spotify" title="Spotify" src="https://img.shields.io/badge/X%20100PRE-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
 </p>
 

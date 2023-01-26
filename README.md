@@ -12,6 +12,7 @@
 
 
 <h2 align="center">Interests</h2>
+
 <p align="center">
   <a href="https://nodejs.org/en/"><img alt="NodeJS" title="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/></a>
   <a href="https://getbootstrap.com/docs"><img alt="Bootstrap" title="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>

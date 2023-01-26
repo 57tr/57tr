@@ -32,8 +32,8 @@
 <h2 align="center">Profile statistics</h2>
 
 <p align="center">
-  <a href="https://github.com/57tr"><img width=450 height=170 align="center" src="https://github-readme-stats.vladfrangu.vercel.app/api/?username=vladfrangu&show_icons=true&title_color=9F4BFF&text_color=FFFFFF&bg_color=0D1117&hide_border=true&icon_color=9F4BFF&hide_title=true&count_private=true"/></a>
-  <a href="https://github.com/57tr"><img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewstouh&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true"/></a>
+  <a href="https://github.com/57tr"><img width=450 height=170 align="center" src="https://github-readme-stats.vladfrangu.vercel.app/api/?username=57tr&show_icons=true&title_color=9F4BFF&text_color=FFFFFF&bg_color=0D1117&hide_border=true&icon_color=9F4BFF&hide_title=true&count_private=true"/></a>
+  <a href="https://github.com/57tr"><img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=57tr&layout=compact&title_color=9F4BFF&text_color=FFFFFF&bg_color=0D1117&hide_border=true&icon_color=9F4BFF&hide=visual%20basic&count_private=true"/></a>
 </p>
 
 

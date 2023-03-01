@@ -18,7 +18,6 @@
   <a href="https://getbootstrap.com/docs"><img alt="Bootstrap" title="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="CSS3" title="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="NextJS" title="NextJS" src="https://img.shields.io/badge/next.js-1572B6?style=for-the-badge&logo=next.js3&logoColor=green"/></a>
 </p>
 
 

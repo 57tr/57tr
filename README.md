@@ -27,7 +27,7 @@
 
 <p align="center">
   <a target="_blank"href="https://twitter.com/messages/compose?recipient_id=1368243131238539268"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:ign57tr@gmail.com?subject=Hi%2057tr,%20i%20come%20from%20github%20and%20i%20need%20help%20in..."><img alt="Gmail" title="Gmail" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:ign57tr@gmail.com?subject=Hi%2057tr,%20i%20come%20from%20github%20and%20i%20need%20help%20in..."><img alt="Gmail" title="Gmail" src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail" /></a>
   <a href="https://t.me/ign57tr"><img alt="Telegram" title="Telegram" src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 

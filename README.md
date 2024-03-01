@@ -47,7 +47,7 @@
   <a href="https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF?si=f099cd03d48a4806"><img alt="Spotify" title="Spotify" src="https://img.shields.io/badge/X%20100PRE-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
 </p>
 
------------------------------
+
 <!-- <p align='center'>
   <a href="https://twitter.com/ign57tr"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="visitor badge"/></a><br>
 </p> -->

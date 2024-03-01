@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://linktr.ee/ign57tr"><img width="80%" height="auto" src="https://i.imgur.com/s5cqH5C.png" height="200px"/></a><br>
-  <a href="https://discord.gg/jmv9EbFjZr"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://discord.gg/VdRY5GTUz8"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://instagram.com/juan.cc02"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://open.spotify.com/user/8824kysns2qno2ricj059l1q7?si=6010de8330fb422f"><img alt="Spotify" title="Spotify" src="https://img.shields.io/badge/-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/></a>
 </p>
@@ -17,6 +17,7 @@
   <a href="https://nodejs.org/en/"><img alt="NodeJS" title="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/></a>
   <a href="https://getbootstrap.com/docs"><img alt="Bootstrap" title="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
+  <a href="https://www.typescriptlang.org/"><img alt="TypeScript" title="TypeScript" src="https://img.shields.io/badge/typescript-white?style=for-the-badge&logo=typescript&logoColor=#007acc"/></a>
   <a href="https://developer.mozilla.org/es/docs/Web/HTML"><img alt="HTML" title="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="CSS3" title="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
 </p>

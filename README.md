@@ -8,7 +8,7 @@
 
 <h1 align="center"> Hey there!</h1>
 
-<p align="center">I am a javascript, java and css developer with two years of experience in the field of technology. I have strong object-oriented programming skills and have used popular frameworks like Angular, React, and Spring. Additionally, I have experience in database implementation and have worked with MySQL, MongoDB and Oracle.</p>
+<p align="center">I'm a technology professional with three years of experience specializing in JavaScript, TypeScript, Java, and CSS3. I possess strong object-oriented programming skills and have worked with popular frameworks such as Angular, React, and Spring. Additionally, I have hands-on experience in database implementation, having worked with MySQL, MongoDB, Oracle, and other database management systems. I am passionate about leveraging my expertise to develop innovative and efficient solutions in the ever-evolving field of technology.</p>
 
 
 <h2 align="center">Interests</h2>

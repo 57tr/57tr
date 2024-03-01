@@ -26,7 +26,7 @@
 <h2 align="center">Contact me</h2>
 
 <p align="center">
-  <a target="_blank"href="https://twitter.com/messages/compose?recipient_id=1368243131238539268"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://twitter.com/messages/compose?recipient_id=1368243131238539268"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="mailto:ign57tr@gmail.com?subject=Hi%2057tr,%20i%20come%20from%20github%20and%20i%20need%20help%20in..."><img alt="Gmail" title="Gmail" src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://t.me/ign57tr"><img alt="Telegram" title="Telegram" src="https://img.shields.io/badge/-Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
@@ -49,5 +49,5 @@
 
 
 <p align='center'>
-  <a href="https://twitter.com/ign57tr"><img src="https://visitor-badge.glitch.me/badge?page_id=57tr" alt="visitor badge"/></a><br>
+  <a href="https://twitter.com/ign57tr"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="visitor badge"/></a><br>
 </p>

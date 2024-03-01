@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://linktr.ee/ign57tr"><img width="80%" height="auto" src="https://i.imgur.com/s5cqH5C.png" height="200px"/></a><br>
   <a href="https://discord.gg/VdRY5GTUz8"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="https://instagram.com/juan.cc02"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://instagram.com/juan.cc02"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-white?style=for-the-badge&logo=instagram"/></a>
   <a href="https://open.spotify.com/user/8824kysns2qno2ricj059l1q7?si=6010de8330fb422f"><img alt="Spotify" title="Spotify" src="https://img.shields.io/badge/-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=black"/></a>
 </p>
 
@@ -46,6 +46,7 @@
   <a href="https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1?si=44c6b4aa6d4043cc"><img alt="Spotify" title="Spotify" src="https://img.shields.io/badge/YHLQMDLG-1DB954?style=for-the-badge&logo=spotify&logoColor=black"/></a>
   <a href="https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF?si=f099cd03d48a4806"><img alt="Spotify" title="Spotify" src="https://img.shields.io/badge/X_100PRE-1DB954?style=for-the-badge&logo=spotify&logoColor=black"/></a>
 </p>
+
 
 ----
 <!-- <p align='center'>

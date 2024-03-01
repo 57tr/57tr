@@ -2,7 +2,7 @@
   <a href="https://linktr.ee/ign57tr"><img width="80%" height="auto" src="https://i.imgur.com/s5cqH5C.png" height="200px"/></a><br>
   <a href="https://discord.gg/VdRY5GTUz8"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://instagram.com/juan.cc02"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://open.spotify.com/user/8824kysns2qno2ricj059l1q7?si=6010de8330fb422f"><img alt="Spotify" title="Spotify" src="https://img.shields.io/badge/-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/></a>
+  <a href="https://open.spotify.com/user/8824kysns2qno2ricj059l1q7?si=6010de8330fb422f"><img alt="Spotify" title="Spotify" src="https://img.shields.io/badge/-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=black"/></a>
 </p>
 
 
@@ -14,7 +14,7 @@
 <h2 align="center">Interests</h2>
 
 <p align="center">
-  <a href="https://nodejs.org/en/"><img alt="Node.JS" title="Node.JS" src="https://img.shields.io/badge/Node_JS%20-339933?style=for-the-badge&logo=node.js&logoColor=white"/></a>
+  <a href="https://nodejs.org/en/"><img alt="Node.JS" title="Node.JS" src="https://img.shields.io/badge/Node.JS%20-339933?style=for-the-badge&logo=node.js&logoColor=white"/></a>
   <a href="https://getbootstrap.com/docs"><img alt="Bootstrap" title="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
   <a href="https://www.typescriptlang.org/"><img alt="TypeScript" title="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/></a>

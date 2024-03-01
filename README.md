@@ -49,6 +49,3 @@
 
 
 ----
-<!-- <p align='center'>
-  <a href="https://twitter.com/ign57tr"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="visitor badge"/></a><br>
-</p> -->

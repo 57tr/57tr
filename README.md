@@ -49,6 +49,6 @@
 
 
 ----
-<!-- <p align='center'>
+<p align='center'>
   <a href="https://twitter.com/ign57tr"><img src="https://visitor-badge.glitch.me/badge?page_id=57tr" alt="visitor badge"/></a><br>
-</p> -->
+</p>

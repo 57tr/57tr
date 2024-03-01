@@ -14,11 +14,11 @@
 <h2 align="center">Interests</h2>
 
 <p align="center">
-  <a href="https://nodejs.org/en/"><img alt="NodeJS" title="NodeJS" src="https://img.shields.io/badge/node.js%20-EBE1C9?style=for-the-badge&logo=node.js"/></a>
-  <a href="https://getbootstrap.com/docs"><img alt="Bootstrap" title="Bootstrap" src="https://img.shields.io/badge/Bootstrap-EBE1C9?style=for-the-badge&logo=bootstrap"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript"/></a>
-  <a href="https://www.typescriptlang.org/"><img alt="TypeScript" title="TypeScript" src="https://img.shields.io/badge/typescript-EBE1C9?style=for-the-badge&logo=typescript"/></a>
-  <a href="https://developer.mozilla.org/es/docs/Web/HTML"><img alt="HTML" title="HTML" src="https://img.shields.io/badge/HTML-EBE1C9?style=for-the-badge&logo=html5"/></a>
+  <a href="https://nodejs.org/en/"><img alt="NodeJS" title="NodeJS" src="https://img.shields.io/badge/node.js%20-339933?style=for-the-badge&logo=node.js&logoColor=white"/></a>
+  <a href="https://getbootstrap.com/docs"><img alt="Bootstrap" title="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
+  <a href="https://www.typescriptlang.org/"><img alt="TypeScript" title="TypeScript" src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/></a>
+  <a href="https://developer.mozilla.org/es/docs/Web/HTML"><img alt="HTML" title="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="CSS3" title="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/></a>
 </p>
 

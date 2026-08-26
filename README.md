@@ -57,16 +57,7 @@
 <h2 align="center">📊 Profile Statistics</h2>
 
 <p align="center">
-  <a href="https://github.com/57tr">
-    <img align="center" height="170"
-         alt="57tr's GitHub stats"
-         src="https://github-stats-extended.vercel.app/api?username=57tr&show_icons=true&hide_title=true&hide_border=true&bg_color=FFFFFF00&title_color=006AFF&text_color=417E87&icon_color=0579C3&include_all_commits=true"/>
-  </a>
-  <a href="https://github.com/57tr">
-    <img align="center" height="170"
-         alt="57tr's most used languages"
-         src="https://github-stats-extended.vercel.app/api/top-langs/?username=57tr&layout=compact&langs_count=8&hide_border=true&bg_color=FFFFFF00&title_color=006AFF&text_color=417E87&hide=visual%20basic"/>
-  </a>
+  <a href="https://github.com/57tr"><img align="center" height="170" alt="57tr's GitHub stats" src="https://github-stats-extended.vercel.app/api?username=57tr&show_icons=true&hide_title=true&hide_border=true&bg_color=FFFFFF00&title_color=006AFF&text_color=417E87&icon_color=0579C3&include_all_commits=true&card_width=450"/></a><a href="https://github.com/57tr"><img align="center" height="170" alt="57tr's most used languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=57tr&layout=compact&langs_count=8&hide_border=true&bg_color=FFFFFF00&title_color=006AFF&text_color=417E87&hide=visual%20basic&card_width=320"/></a>
 </p>
 
 <p align="center">

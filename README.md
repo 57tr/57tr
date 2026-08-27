@@ -15,7 +15,7 @@
 <h1 align="center">Hey there! 👋</h1>
 
 <p align="center">
-  I'm a technology professional with three years of experience building web applications with
+  I'm a technology professional with five years of experience building web applications with
   <b>JavaScript</b>, <b>TypeScript</b>, <b>Java</b> and <b>CSS3</b>.<br/>
   Strong object-oriented foundations, hands-on work with <b>Angular</b>, <b>React</b> and <b>Spring</b>,
   and real-world database design across <b>MySQL</b>, <b>MongoDB</b> and <b>Oracle</b>.<br/>
